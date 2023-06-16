@@ -1,0 +1,6 @@
+*.jar
+*.zip
+*.pdf
+*.docx
+out
+.idea
