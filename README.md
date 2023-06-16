@@ -6,11 +6,11 @@ Pracujete ako policajt na hraničnej kontrole. Vašou úlohou je kontrolovať do
 Hra prebieha v príkazovom riadku a je ovládaná číslami na klávesnici. Ak je to možné, vždy sa da vrátiť do predošlého menu stlačením 0 (nula) alebo zastaviť hru v hlavnom menu.
 
 
-Po spustení máte možnosť vytvoriť novú hru alebo načítať existujúcu.
+Po spustení máte možnosť vytvoriť novú hru alebo načítať existujúcu.<br>
 ![screenshot](resources/screenshots/img1.png)
 ---
 
-Po vytvorení novej hry alebo úspešnom načítaní sa vám napíše číslo dňa (hra sa 5 dní) a ukáže sa vám hlavné herné menu
+Po vytvorení novej hry alebo úspešnom načítaní sa vám napíše číslo dňa (hra sa 5 dní) a ukáže sa vám hlavné herné menu<br>
 ![screenshot](resources/screenshots/img2.png)
 ---
 
@@ -25,18 +25,18 @@ Po vytvorení novej hry alebo úspešnom načítaní sa vám napíše číslo d�
 - [9]	Zastaví sa hra a zobrazí sa menu na uloženie hry, pokračovanie a vypnutie programu
 
 ---
-Menu na výber chýb
+### Menu na výber chýb <br>
 ![screenshot](resources/screenshots/img3.png)
 ---
 
-Možné chyby pri pase
+### Možné chyby pri pase<br>
 ![screenshot](resources/screenshots/img4.png)
 ---
 
-Možné chyby pri technickom preukaze
+### Možné chyby pri technickom preukaze<br>
 ![screenshot](resources/screenshots/img5.png)
 ---
 
-Úspešne zadržanie pasažiera.
+### Úspešne zadržanie pasažiera.<br>
 ![screenshot](resources/screenshots/img6.png)
  ---
